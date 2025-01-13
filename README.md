@@ -4,7 +4,7 @@ A simple Python-based tool that converts text into beautiful ASCII art. The proj
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -12,7 +12,7 @@ Make sure you have Python installed on your system. You can download it [here](h
 
 ### Installing
 
-A step-by-step series of instructions to set up your environment:
+Follow these steps to set up your environment:
 
 1. Clone the repository:
    ```bash
@@ -30,23 +30,14 @@ A step-by-step series of instructions to set up your environment:
    python ASCII_Art_Generator.py
    ```
 
-End with an example of how to get some data out of the system or use it for a demo.
+## Running the Program
 
-## Running the tests
+To test the program, simply run the script and try different text inputs. For example:
 
-Explain how to run the automated tests for this system. Currently, there are no automated tests for this project. To test the program, simply run the script and try different text inputs.
-
-### Break down into end-to-end tests
-
-Explain what these tests test and why:
-
-Give an example.
-
-### Coding style tests
-
-Explain what these tests test and why:
-
-Give an example.
+```bash
+python ASCII_Art_Generator.py
+```
+Input a string, and the program will generate ASCII art based on your input.
 
 ## Deployment
 
@@ -59,7 +50,7 @@ This project does not require deployment beyond running the script locally. Howe
 
 ## Contributing
 
-Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
+Contributions are welcome! To contribute:
 
 1. Fork the repository.
 2. Create a feature branch:
