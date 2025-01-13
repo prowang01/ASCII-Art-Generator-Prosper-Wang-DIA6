@@ -23,4 +23,5 @@ if __name__ == "__main__":
             break
 
         art = generate_ascii_art(user_input)
+        print("\n")
         print(art)
